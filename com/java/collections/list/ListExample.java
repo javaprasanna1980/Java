@@ -25,7 +25,5 @@ public class listExample{
 		for(String fruit : arraylist){
 			System.out.println(fruit);
 			
-			//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
 		}
 	}
-}
