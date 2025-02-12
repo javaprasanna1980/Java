@@ -14,5 +14,18 @@ public class listExample{
 		// Adding elements
 		arraylist.add("Apple");
 		arraylist.add("Banana");
+		
+		// Accesing elements
+		String fruit = arraylist.get(0); //Apple
+		
+		// Removing Elements
+		arraylist.remove("Banana")
+		
+		// Iterating through a List
+		for(String fruit : arraylist){
+			System.out.println(fruit);
+			
+			//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
+		}
 	}
 }
